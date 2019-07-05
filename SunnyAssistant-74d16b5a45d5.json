@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sunnyassistant-29dc2",
+  "private_key_id": "74d16b5a45d55d674d4c334bc04be60efb3c3c1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1/a5EHu8QpFhP\n9bditr6japF9QAfroFh6iDdIUsu1GWBEUx2TvsvIf2tQXSlLrz7WDZrY//Z1GxQz\nXWYlDxgkT6JfS3QUwwkwqO0BQyRxkArH8LrXrkKq8cG4NaebVF/txe4htPWX/c3N\nosmPGw4xF3fhrI8ZCC0lH4+UyrS4JOSdvj9zGy7+4UXzKmrdJ17/xrdznUUtTYnU\nUtIF+m9N2tGkbm5pv70RXk9Ikaxs8ZJe3mQYplJgir7ibsDTFeNOBsy4DhmkZDm5\nRVkAkO6eZWj+y837cQF+gjPyAKeuyK33AQ+rgLRedCD3mOqeNl0e/Ha07qi0exEV\njQ1zetgzAgMBAAECggEAKGmZvgTEf4SPG8prm58K/EzY2+BRIfCsVSFUbVn9ZEyr\nRODUC4/tvqsU0Havid/zayMARLmqJ90IglN2MDqG2OFaJCEkOMwKiWSppIMdX55l\n1npNc0F+Cmm+48H+Yw68cpdmRtPhSYwRnF1OttmCMEKO220vJZbcN4cnohnVQaKG\n5fujKlsPrbq7XpNuETTP3PFrqwRsGdOV3J5MG5a0BbJL6pJMBn11auIpHJWjjT8Z\nCFsA/X1hyXarnvQlfJA4vDjRXMDAEI1uMs0dQbFNX1iqTZusfZrN8p3ATsTcq4l+\njVuFWzowifvn1nKwRiDTrD+k11lji+qub2cAiU1XmQKBgQD3RfEC6Av4S0f7+QsD\nmr4AbsPQTqV2VmPE+C/CvJS7a3J91zaYImwDWlM2wvEHgTv3gzCF4f9keDX7yhcg\n9f+p5pCMJyLFk1oY46xuef3B/07AidEVQ5WeGGLqNFRagAw0vI4X09eX+swEKiVj\nHb0+EKFoOMSJDWJGhkL0XxIF1wKBgQC8ae2wZZY9mdIolYqkw3Xbkk7d/UyKh553\nymuOeIJLcLrM2MWFYcZ0ayVpbUlAF4RPdKYWNtJJNPdsZXJ6XW9aGQg2BOTXLwF1\n2NQbv5O8btqJ4RNh2XxMxQfAt2hgGnN4R/CkctHxhGuw5NaAHe1iBfER6lUHlUF0\nhXLN6Je9BQKBgQCWUzzcCXoNbqbKdnLNtCtCVBRS9Rz+PjLVMhTHDKJW9lFaU5Xr\nEzIbL7RbHFQvvc9Y/7ZmDiiXScV31zoMXcEZ5wOFUN2Aw74IV5EicKNmZvHXd3FW\nvgmdXTH1M+78PdAt11uC/NSanmudNIoaIaBEtROLKsfAkhRmz4Swz4NDbQKBgFS9\nA4S5O6f63XUZRKCzs/cLx2K5wEnxksjnhhYuhtMtISZuO++wONQ1OD9BQpeLvBsM\nKIKHJ257XugmfCUijqkj5vh8nPtWjb6VxVexgt1Vsf4e91ujt+7DEqiPFGdcniAz\norwjU97eopyNXxeB3jie2XwoOxPNAgJI3ohTGqONAoGAcnsy+u0rDVf85pocvhbn\nZe2uzbL/jNvDlVylO8R0Vx/RvO+cgKF1XJYjIgrdgG5gWpnrhmks3BVeXDOX5hMM\ntWs7mJsEtorU8LPoDgOgFYEBBiU5OrEehEA5aXQo+9s9tHvvCgQQ/xn+/AE56/eI\nd6VdrYoKp+IFgnGkimHb2xA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "notifications@sunnyassistant-29dc2.iam.gserviceaccount.com",
+  "client_id": "100183204819280899036",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/notifications%40sunnyassistant-29dc2.iam.gserviceaccount.com"
+}
